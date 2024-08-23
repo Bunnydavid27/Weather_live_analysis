@@ -1,0 +1,9 @@
+name,type,kind,null?,default,primary key,unique key,check,expression,comment,policy name,privacy domain
+FEELSLIKE_TEMP,"NUMBER(20,0)",COLUMN,Y,,N,N,,,,,
+TEMP,"NUMBER(20,0)",COLUMN,Y,,N,N,,,,,
+CITY,VARCHAR(128),COLUMN,Y,,N,N,,,,,
+HUMIDITY,"NUMBER(20,5)",COLUMN,Y,,N,N,,,,,
+WIND_SPEED,"NUMBER(20,5)",COLUMN,Y,,N,N,,,,,
+TIME,VARCHAR(128),COLUMN,Y,,N,N,,,,,
+WIND_DIR,VARCHAR(128),COLUMN,Y,,N,N,,,,,
+PRESSURE_MB,"NUMBER(20,5)",COLUMN,Y,,N,N,,,,,

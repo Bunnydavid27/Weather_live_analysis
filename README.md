@@ -1,6 +1,7 @@
 # Weather_live_analysis
 This project is designed to extract weather data using the WeatherAPI, store it in DynamoDB, and set up a data pipeline that triggers data storage in an S3 bucket, which is then accessed by Snowflake for live analysis.
 
+Dashboard: https://app.snowflake.com/cpnlyno/kl53458/#/weather_analysis-dRYYDf62F  (If you have Snowflake Account you can view my Weather Dashboard)
 ## Prerequisites
 
 1. **Create a WeatherAPI Account**:
